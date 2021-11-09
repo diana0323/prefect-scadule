@@ -26,12 +26,12 @@ td {
 .num {
   width: 150px;
   background-color: lightgray;
-  color: darkblue;
+  color: #4F4F4F;
   font-size: 30px;
 }
 
 body {
-  background-color: beige;
+  background-color: SteelBlue;
   color: white;
   font-family: 'Times New Roman';
 }
@@ -47,4 +47,10 @@ body {
 
 .art{
   color: green;
+}
+
+footer{
+  text-align: center;
+  border: 1px dotted white;
+  border-radius: 10px;
 }
