@@ -1,0 +1,56 @@
+table {
+  text-align: center;
+  margin: 20px auto;
+}
+
+th {
+  border: 2px solid darkslategrey;
+  background-color: #a3a3a3;
+  color: black;
+}
+
+td {
+  border: 2px solid darkslategrey;
+  width: 300px;
+}
+
+.sub {
+  max-width: 940px;
+  margin: 0 auto;
+  height: 100px;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+}
+
+.num {
+  width: 150px;
+  background-color: lightgray;
+  color: #4F4F4F;
+  font-size: 30px;
+}
+
+body {
+  background-color: SteelBlue;
+  color: white;
+  font-family: 'Times New Roman';
+}
+
+.day{
+  background-color: black;
+  color: white;
+}
+
+.pt{
+  color: plum;
+}
+
+.art{
+  color: green;
+}
+
+footer{
+  text-align: center;
+  border: 1px dotted white;
+  border-radius: 10px;
+}
