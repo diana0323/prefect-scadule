@@ -1,0 +1,50 @@
+table {
+  text-align: center;
+  margin: 20px auto;
+}
+
+th {
+  border: 2px solid darkslategrey;
+  background-color: #a3a3a3;
+  color: black;
+}
+
+td {
+  border: 2px solid darkslategrey;
+  width: 300px;
+}
+
+.sub {
+  max-width: 940px;
+  margin: 0 auto;
+  height: 100px;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+}
+
+.num {
+  width: 150px;
+  background-color: lightgray;
+  color: darkblue;
+  font-size: 30px;
+}
+
+body {
+  background-color: beige;
+  color: white;
+  font-family: 'Times New Roman';
+}
+
+.day{
+  background-color: black;
+  color: white;
+}
+
+.pt{
+  color: plum;
+}
+
+.art{
+  color: green;
+}
